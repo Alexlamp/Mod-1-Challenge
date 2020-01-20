@@ -1,2 +1,7 @@
 # Mod-1-Challenge
 This is Alex Lamp's Mod 1 Challenge
+### Challenge
+##### Conclusion:
+In conclusion, We were not able to prove if the length of the campaign had an influence on the success or failure of the kickstarter. After analyzing the data sets and charts that we have, we can come to other conclusions based on goals and launch date. There were no cancelled Kickstarters within the "Plays" subcategory of the "Theater" Category. The most successful kickstarters occured when fundraising goals were low. The highest percentage of success occured with goals less than $1000. I found that the highest fundraising goals led to lowest rates of success. Fundrasing goals from $45,000 to $49,999, had 0% success and goals $50,0000 or greater had only %13 success. According to the data in regards to the launch date, there was a correlation between Success and failure rate. In February, May and October, there were three peaks of increased activity. The rate of successes and failure increased together during these months. 
+##### Limitations and Suggestions:
+The major limitation in this data set is that it does not answer our initial question. I believe we should have better utilized the deadline data set. Potentially, we could have subtracted the launch date from the deadline to see how long the campaign lasted. This way we could have seen if the length of the campaign had an influence on the success or failure of the kickstarter.
